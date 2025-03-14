@@ -1,0 +1,28 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=Extensão VIN para Servos
+*Date=10:45:27
+*CreatedBy=Fritzing 0.9.10b.2022-07-01.CD-2134-0-40d23c29
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;THT;46.633;-11.1983;0;Bottom;J1
+2;1µF;100 mil [THT, electrolytic];28.853;-7.38826;90;Bottom;C1
+3;;THT;44.093;-11.1983;0;Bottom;J2
+4;;THT;39.013;-11.1983;0;Bottom;J4
+5;;THT;33.933;-11.1983;0;Bottom;J6
+6;470;THT;54.253;-8.65826;-90;Bottom;R1
+7;100nF;100 mil [THT, multilayer];16.153;-9.93297;90;Bottom;C2
+8;;THT;40.283;-3.57826;90;Bottom;J7
+9;;THT;36.473;-11.1983;0;Bottom;J5
+10;0.030;3 mm [THT];51.7131;-9.30949;0;Bottom;LED1
+11;;;5.77074;-7.32476;0;Bottom;Power plug
+12;;THT;41.553;-11.1983;0;Bottom;J3
+13;5V;TO220 [THT];20.217;-8.65826;90;Bottom;U1
